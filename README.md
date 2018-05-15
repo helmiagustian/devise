@@ -5,6 +5,12 @@ By [Plataformatec](http://plataformatec.com.br/).
 [![Build Status](https://api.travis-ci.org/plataformatec/devise.svg?branch=master)](http://travis-ci.org/plataformatec/devise)
 [![Code Climate](https://codeclimate.com/github/plataformatec/devise.svg)](https://codeclimate.com/github/plataformatec/devise)
 
+To do :
+
+* Add username
+* Set default scoped_views to true
+* Add simple design theme to it!
+
 This README is [also available in a friendly navigable format](http://devise.plataformatec.com.br/).
 
 Devise is a flexible authentication solution for Rails based on Warden. It:
